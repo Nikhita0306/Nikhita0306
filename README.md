@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 - Programming Languages C, Python, R, Sql, postGREsql, Html, CSS
-Data Analyzation PowerBI, Tableau, Thoughspot
-Specialization ML, NLP, Deep Learning, Data Structures, Data Warehousing
-Automation Tools Apache Airflow, Regrello Workflow
+- Data Analyzation PowerBI, Tableau, Thoughspot
+- Specialization ML, NLP, Deep Learning, Data Structures, Data Warehousing
+- Automation Tools Apache Airflow, Regrello Workflow
 
 ---
 
