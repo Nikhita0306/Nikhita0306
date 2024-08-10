@@ -1,4 +1,5 @@
-## Hi there 
+## Hi there 👋, I am Nikhita Gadamsetty
+### Data Analyst
 
 <!--
 **Nikhita0306/Nikhita0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
