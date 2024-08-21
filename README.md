@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Nikhita Gadamsetty
 ### Data Analyst
-I work on Data also, I transform raw data into strategic business decisions
+I work on Data. Also, I transform raw data into strategic business decisions
 <!--
 **Nikhita0306/Nikhita0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
