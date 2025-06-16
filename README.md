@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
+- 🔭 I worked as a Systems Engineer at Infosys in DotNet technology
 - 🔭 I worked as a data analyst at Dell Technologies in Data Analytics and Automation Team
 - 🤝 I'm open to collaborating on data science projects
 - ⚡ I also like mandala arts
